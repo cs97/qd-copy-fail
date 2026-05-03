@@ -1,6 +1,8 @@
 # qd-copy-fail
 
 # free to use but don't screw up mmmkay !
+![Screenshot](hacking-is-bad-mmmkay.jpg)
+
 
 one liner with python
 ```
