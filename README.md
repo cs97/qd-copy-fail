@@ -18,3 +18,8 @@ Fixed in versions:
 - 6.18.22
 - 6.19.12
 - 7.0
+
+reload su
+```
+echo 3 > /proc/sys/vm/drop_caches
+```
