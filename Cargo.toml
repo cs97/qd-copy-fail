@@ -3,6 +3,13 @@ name = "qd-copy-fail"
 version = "0.1.0"
 edition = "2024"
 
+[profile.release]
+panic = "abort"
+codegen-unit = 1
+opt-level = "s"
+lto = true
+strip = true
+
 [dependencies]
 libc = "0.2"
 flate2 = "1.0"
